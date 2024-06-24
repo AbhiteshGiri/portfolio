@@ -47,7 +47,7 @@ body {
   position: relative;
   justify-content: center;
   height: 100vh;
-  background: url("img\Untitled\ design.png") no-repeat;
+  background: url("img/Untitled\ design.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
